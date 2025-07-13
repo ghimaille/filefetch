@@ -58,10 +58,9 @@ func main() {
 		row := tab.Row()
 		row.Column(e.Name())
 		if e.IsDir() {
-			row := tab.Row()
 			row.Column("Dir")
 		} else {
-			info, err := os.Stat(e.Name())
+			info, err := os.Stat(wd + "/" + e.Name())
 			if err != nil {
 				log.Fatal(err)
 			}
