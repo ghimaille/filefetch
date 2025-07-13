@@ -1,0 +1,6 @@
+github.com/cornfeedhobo/pflag v1.1.0 h1:hZ356pzRepv6EbQ3M5Yx0ZyvQnTj8rgGKm6PCTFy2kc=
+github.com/cornfeedhobo/pflag v1.1.0/go.mod h1:ROo/cqBpAh84jplPcXiI5HTjyLmtp04WaPKkHC18E6U=
+github.com/markkurossi/tabulate v0.0.0-20230223130100-d4965869b123 h1:aGg9ACNKrIa6lZ18dNT9ZsFcXga3obyOAl5Tiyx2txE=
+github.com/markkurossi/tabulate v0.0.0-20230223130100-d4965869b123/go.mod h1:qPNWLW3h4173ZWYHjOgJ1wbvNyLuE1fboZilv97Aq7k=
+golang.org/x/text v0.7.0 h1:4BRB4x83lYWy72KwLD/qYDuTu7q9PjSagHvijDw7cLo=
+golang.org/x/text v0.7.0/go.mod h1:mrYo+phRRbMaCq/xk9113O4dZlRixOauAjOtrjsXDZ8=
